@@ -56,10 +56,10 @@ Feel free to use this template for your GitHub repository's README file. This st
 
 ### Gallery
 <div style="display: flex; justify-content: center;">
-    <img src="ResQBot Images/Best Paper Award.jpg" alt="Image 1" style="margin: 10px;" width="300">
-    <img src="ResQBot Images/Confrence Certificate.jpg" alt="Image 2" style="margin: 10px;" width="300">
+    <img src="ResQBot Images/Best Paper Award.jpg" alt="Image 1" style="margin: 10px;" width="600">
+    <img src="ResQBot Images/Confrence Certificate.jpg" alt="Image 2" style="margin: 10px;" width="600">
 </div>
 <div style="display: flex; justify-content: center;">
-    <img src="ResQBot Images/Confrence Best Paper Award.jpg" alt="Image 3" style="margin: 10px;" width="700">
+    <img src="ResQBot Images/Confrence Best Paper Award.jpg" alt="Image 3" style="margin: 10px;" width="900">
 </div>
 <hr>
