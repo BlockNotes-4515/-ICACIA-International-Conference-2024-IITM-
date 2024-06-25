@@ -60,5 +60,5 @@ Feel free to use this template for your GitHub repository's README file. This st
     <img src="ResQBot Images/Confrence Certificate.jpg" alt="Image 2" style="margin: 10px;" width="300">
 </div>
 <div style="display: flex; justify-content: center;">
-    <img src="ResQBot Images/Confrence Best Paper Award.jpg" alt="Image 3" style="margin: 10px;" width="500">
+    <img src="ResQBot Images/Confrence Best Paper Award.jpg" alt="Image 3" style="margin: 10px;" width="700">
 </div>
