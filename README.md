@@ -55,37 +55,11 @@ Thank you to the ICACIA committee for this incredible honor and to everyone who 
 Feel free to use this template for your GitHub repository's README file. This structure ensures clarity and highlights your achievements and contributions effectively.
 
 ### Gallery
-<style>
-        .container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 20px; /* Adds gap between the rows */
-        }
-        .top-row {
-            display: flex;
-            justify-content: center;
-            gap: 20px; /* Adds gap between the images in the top row */
-        }
-        .top-row img {
-            width: 300px;
-            margin: 10px;
-        }
-        .bottom-row img {
-            width: 100%;
-            max-width: 700px;
-            margin: 10px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="top-row">
-            <img src="ResQBot Images/Best Paper Award.jpg" alt="Image 1">
-            <img src="ResQBot Images/Confrence Certificate.jpg" alt="Image 2">
-        </div>
-        <div class="bottom-row">
-            <img src="ResQBot Images/Confrence Best Paper Award.jpg" alt="Image 3">
-        </div>
-    </div>
-</body>
+<div style="display: flex; justify-content: center;">
+    <img src="ResQBot Images/Best Paper Award.jpg" alt="Image 1" style="margin: 10px;" width="300">
+    <img src="ResQBot Images/Confrence Certificate.jpg" alt="Image 2" style="margin: 10px;" width="300">
+</div>
+<div style="display: flex; justify-content: center;">
+    <img src="ResQBot Images/Confrence Best Paper Award.jpg" alt="Image 3" style="margin: 10px;" width="700">
+</div>
+<hr>
