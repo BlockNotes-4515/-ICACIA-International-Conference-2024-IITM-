@@ -53,3 +53,13 @@ Thank you to the ICACIA committee for this incredible honor and to everyone who 
 ---
 
 Feel free to use this template for your GitHub repository's README file. This structure ensures clarity and highlights your achievements and contributions effectively.
+
+### Gallery
+<div style="display: flex; justify-content: center;">
+    <img src="path_to_image1.jpg" alt="Image 1" style="margin: 10px;" width="300">
+    <img src="path_to_image2.jpg" alt="Image 2" style="margin: 10px;" width="300">
+</div>
+<div style="display: flex; justify-content: center;">
+    <img src="path_to_image3.jpg" alt="Image 3" style="margin: 10px;" width="300">
+    <img src="path_to_image4.jpg" alt="Image 4" style="margin: 10px;" width="300">
+</div>
